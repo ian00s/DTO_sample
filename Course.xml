@@ -1,3 +1,14 @@
-<courses>
-    <co
-</courses>
+<student>
+    <student_name>Md Aminul Islam Abir</student_name>
+    <ID>230041216</ID>
+    <courses>
+        <course>
+            <courseID>CSE4105</courseID>
+            <courseName>Computing for Engineers</courseName>
+        </course>
+        <course>
+            <courseID>CSE4107</courseID>
+            <courseName>SP</courseName>
+        </course>
+    </courses>
+</student>

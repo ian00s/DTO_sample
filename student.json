@@ -1,15 +1,14 @@
 {
-    "student name":"Md Aminul Islam Abir"
-    "Id": "230041216"
-    "courses":[
-        {
-        "courseID": "CSE4105"
-        "Course_Name":"Computing_for_engineers"
-        }
-        {
-            "Course_ID":"CSE4107"
-            "Course_Name":"SP"
-
-        }
-    ]
+  "student name": "Md Aminul Islam Abir",
+  "Id": "230041216",
+  "courses": [
+    {
+      "Course_ID": "CSE4105",
+      "Course_Name": "Computing_for_engineers"
+    },
+    {
+      "Course_ID": "CSE4107",
+      "Course_Name": "SP"
+    }
+  ]
 }
